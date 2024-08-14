@@ -1,0 +1,1 @@
+{"mappings":"AAAYA,SAASC,eAAe,OACxBD,SAASC,eAAe","sources":["src/js/task-1.js"],"sourcesContent":["const btn = document.getElementById('btn');\nconst key = document.getElementById('key');\n\nconst keys = ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';'];\n\n"],"names":["document","getElementById"],"version":3,"file":"index.5a1fa044.js.map"}
