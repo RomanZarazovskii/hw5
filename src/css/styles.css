@@ -2,7 +2,7 @@
 @import "./base/common.css";
 
 #title {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 #btn {
@@ -17,4 +17,11 @@
 #btn:hover {
     color: orange;
     background-color: rgb(255, 232, 190);
+}
+
+#key {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
 }
